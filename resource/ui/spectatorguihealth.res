@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%health%"
 		"textAlignment"	"center"	
-		"font"			"Trebuchet24"
+		"font"			"Trebuchet20"
 		"fgcolor_override"		"CSSOrangeBright"
 		"proportionaltoparent"	"1"
 	}

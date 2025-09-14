@@ -71,7 +71,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"Trebuchet24"
+		"font"			"Trebuchet20"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
