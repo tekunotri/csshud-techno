@@ -75,7 +75,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Default"
-		"fgcolor_override"		"180 125 13 150"
+		"fgcolor_override"		"CSSOrange"
 	}
 	"ItemEffectMeter"
 	{	
@@ -108,8 +108,12 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"HudNumbersSmall"
+		"fgcolor_override"		"CSSOrange"
+		"font"					"HudNumbersSmall"
 		"fgcolor_override"		"180 125 13 150"
 		"use_proportional_insets"	"1"
+		"textinsetx"	"45"
+		"textinsety"	"-2"
 		"textinsetx"	"45"
 		"textinsety"	"-2"
 		"pin_to_sibling"		"KillstreakBG"
